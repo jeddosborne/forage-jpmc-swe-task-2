@@ -41,8 +41,7 @@ class Graph extends Component<IProps, {}> {
       {"stock": "distinctive count",
       "top_ask_price": "avg",
       "top_bid_price": "avg",
-      "timestamp": "distinct count"}`
-    )
+      "timestamp": "distinct count"}`);
 
     const schema = {
       stock: 'string',
